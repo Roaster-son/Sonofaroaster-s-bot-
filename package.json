@@ -1,0 +1,14 @@
+{
+  "name": "venom-bot",
+  "version": "1.0.0",
+  "description": "Simple WhatsApp bot using Venom",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "venom-bot": "^5.0.0",
+    "express": "^4.19.0",
+    "dotenv": "^16.4.0"
+  }
+}
